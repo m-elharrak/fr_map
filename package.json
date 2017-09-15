@@ -1,0 +1,23 @@
+{
+  "name": "fr_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-jvectormap-fr_regions-mill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-elharrak/fr_map.git"
+  },
+  "keywords": [
+    "map",
+    "france"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-elharrak/fr_map/issues"
+  },
+  "homepage": "https://github.com/m-elharrak/fr_map#readme"
+}
